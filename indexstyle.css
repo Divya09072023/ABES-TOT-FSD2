@@ -1,0 +1,23 @@
+
+  /*  #p1{ 
+       background-color: blueviolet; 
+    }
+
+.paragraph{ background-color:aquamarine;
+color:antiquewhite;
+font-size: xx-large;}*/
+div ~p{
+    background-color: blue;
+    color: aliceblue;
+}
+
+p::after{
+    Content :"we are learning";
+    background-color: black;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p::selection{
+    background-color: brown;
+    color:aquamarine;
+}
