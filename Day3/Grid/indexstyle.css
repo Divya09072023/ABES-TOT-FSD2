@@ -1,0 +1,203 @@
+.box{
+    display: grid;
+        grid-template-columns: repeat(4,4fr);
+
+    grid-template-rows: repeat(4,4fr);
+    border: 1px solid red;
+    height: 1200px;
+    width: 1200px;
+    background-color: bisque;
+    margin:50px;
+    
+}
+
+.box1{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+height: 250px;
+width: 250px;
+border:2px dotted blue;
+background-color: rgb(219, 245, 236);
+/* grid-column-start: 2; */
+/* grid-column-end: 4; */
+ /* grid-row-start: 1;  */
+/* grid-row-end: 2;  */
+.box11{
+    height: 100px;
+width: 100px;
+border:2px dotted black;
+
+
+}
+.box12{
+    height: 100px;
+width: 100px;
+border:2px dotted black;
+
+
+}
+.box13{
+    height: 100px;
+width: 100px;
+border:2px dotted black;
+
+
+}
+.box14{
+    height: 100px;
+width: 100px;
+border:2px dotted black;
+
+
+}
+
+}
+.box2{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+   height: 250px;
+   width: 250px;
+border:2px dotted black;
+background-color: rgb(246, 191, 226);
+
+.box21{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+.box22{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+.box23{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+.box24{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}}
+
+.box3{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+ 
+     height: 250px;
+   width: 250px;
+border:2px dotted blue;
+background-color: rgb(247, 221, 201);
+
+.box31{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+.box32{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+.box33{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+.box34{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+
+}
+
+.box4{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+ 
+     height: 250px;
+   width: 250px;
+border:2px dotted black;
+background-color: rgb(176, 244, 169);
+.box41{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+.box42{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+.box43{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+.box44{
+    height: 50px;
+width: 50px;
+border:1px dotted black;
+
+
+}
+
+}
+.box5{
+height: 150px;
+width: 150px;
+border:2px dotted rgb(163, 163, 245);
+background-color: rgb(219, 245, 236);
+}
+.box6{
+    height: 150px;
+width: 150px;
+border:2px dotted rgb(92, 90, 90);
+background-color: rgb(246, 191, 226);
+
+}
+
+.box7{
+    height: 150px;
+width: 150px;
+border:2px dotted rgb(21, 21, 50);
+background-color: rgb(247, 221, 201);
+
+
+}
+
+.box8{
+    height: 150px;
+width: 150px;
+border:2px dotted rgb(248, 191, 191);
+background-color: rgb(176, 244, 169);
+
+}
